@@ -1,0 +1,17 @@
+body {
+	background-image: url("../images/bullet.jpg");
+
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: brown;
+	color: white;
+}
+.panel {
+	margin-left: 240px;
+	margin-right: 240px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	border: blue solid 2px;
+	}
